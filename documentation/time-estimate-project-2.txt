@@ -1,0 +1,7 @@
+Estimate: 35 Hours
+
+Looking at the coding workload based on how long it takes to write a single Line of Code we can estimate
+that it will take 35 hours to do the work. The AI component will take ~500 lines of code to complete and 
+the sound and animations will take ~100 lines of code. If each line of code takes ~3 minutes (.05 hours) 
+than that adds up to 30 hours (600 * .05 = 30). Adding onto this the time it will take to have team meetings, 
+an estimated 1 hour per team member, we are left with an estimate of 35 hours to complete Project 2.

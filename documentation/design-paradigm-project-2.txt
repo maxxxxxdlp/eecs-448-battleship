@@ -1,0 +1,22 @@
+We believe that Team 5 used the Top-Down Functional Decomposition design paradigm when desgining
+their Project 1.
+
+The goal of Top-Down Functional Decomposition is to seperate the taskload into different components that
+each have a critical aspect of functionality. For Project 1 it is easy to break down the project into four
+aspects: Starting the Game, Setting up the Game, Playing the Game, Ending the Game.
+
+It's easy to see that Team 5 thought of the project this way because they made four seperate views of the
+game board each with the functionality lined out above. There is one view that allows the player to start 
+the game and choose how many ships they are playing with, there is another view that lets the player set up
+their game board, another view that facilitates the actual playing of Battleship, and finally a view that
+shows who won.
+
+In the ship placement view the screen into two different sections, the left side is a list of all the ships
+(called a fleet by the program) and the right side of the screen is dedicated to a map which allows the
+user to place those ships onto the board. The view where the game is played is also bisected; the left
+side shows the user where there ships are and if they've been hit, and the right side shows the 
+opponents ships and where the user has guessed.
+
+Since the program was obviously designed with breaking up the code into sections that each tackle different
+primary functions of Battleship we can easily say that the design paradigm they used was 
+Top-Down Functional Decomposition.

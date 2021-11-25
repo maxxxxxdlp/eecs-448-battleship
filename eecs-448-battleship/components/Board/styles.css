@@ -71,7 +71,10 @@ td {
 .Board td.ship,
 .Board thead th:first-child {
   cursor: inherit;
-  background: transparent;
+  background-image: url(/pics/dreamstime_s_206595289.jpg);
+  background-repeat: no-repeat;
+  width: 32px;
+  height: 32px;
 }
 
 .Board td.shadow {
@@ -96,4 +99,11 @@ td {
 
 .Board td.ship button {
   cursor: initial;
+}
+
+.Board td.dead ship {
+  background-image: url(/pics/Nuclear Bomb Explosion Animated Gifs.gif);
+  background-repeat: no-repeat;
+  width: 32px;
+  height: 32px;
 }
